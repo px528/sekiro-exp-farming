@@ -2,6 +2,9 @@
 
 只狼：影逝二度 自动刷分脚本，基于 `pydirectinput` 模拟键鼠操作，保留运行日志。
 
+## 演示
+https://www.bilibili.com/video/BV13GKb6JEsh/?share_source=copy_web&vd_source=89a3576c40463e0941cdacd74d7bafa6
+
 ## 性能
 
 每个循环36秒，获得392经验，和用户手动刷相比效率很低，不过胜在可以稳定挂机。
